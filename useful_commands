@@ -1,0 +1,31 @@
+Some useful commands:
+
+Acctivate:
+python3 -m venv venvcl
+Source venvcl/bin/activate
+
+Deactivate:
+cd myvenv/bin
+deactivate
+
+start a project,  create a directory
+django-admin.py startproject stocks
+
+Start an app: (every big function is an app)
+python manage.py startapp quotes
+
+
+Migrate data base:
+python manage.py migrate
+
+
+Pull website:
+python manage.py runserver
+open internet browser, input “http://localhost:8000/”
+
+
+
+
+Other commands
+Command + s: save
+Command + / : comment all lines
