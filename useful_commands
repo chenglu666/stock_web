@@ -5,7 +5,7 @@ python3 -m venv venvcl
 Source venvcl/bin/activate
 
 Deactivate:
-cd myvenv/bin
+cd venvcl/bin
 deactivate
 
 start a project,  create a directory
